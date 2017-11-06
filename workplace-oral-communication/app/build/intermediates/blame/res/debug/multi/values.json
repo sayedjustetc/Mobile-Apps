@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 49,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 56,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 53,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 53,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 56,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 56,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 35,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 36,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/workplace-oral-communication/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 386
+                    }
+                }
+            }
+        ]
+    }
+]
