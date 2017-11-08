@@ -25,7 +25,7 @@ public class Main extends Activity {
         webView = (WebView)findViewById(R.id.fullscreen_content);
         webView.setWebViewClient(new MyWebViewClient());
         //webView.loadUrl("http://sitestree.com/series/pmp-project-management/");
-        webView.loadUrl("file:///android_asset/www/about_us.html");
+        webView.loadUrl("file:///android_asset/www/index.html");
         webView.setWebChromeClient(new WebChromeClient());
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
