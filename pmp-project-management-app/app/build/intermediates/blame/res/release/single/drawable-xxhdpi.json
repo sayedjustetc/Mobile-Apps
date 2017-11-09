@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/pmp-project-management-app/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/pmp-project-management-app/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/pmp-project-management-app/app/build/intermediates/res/merged/release/drawable-xxhdpi/icon_launcher.png",
+        "source": "/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/pmp-project-management-app/app/src/main/res/drawable-xxhdpi/icon_launcher.png"
+    }
+]

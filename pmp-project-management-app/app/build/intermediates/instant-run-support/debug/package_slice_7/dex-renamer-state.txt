@@ -1,0 +1,4 @@
+#Wed Oct 18 21:49:01 EDT 2017
+base.0=/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/pmp-project-management-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Volumes/justetc_software/justetc-new-cloud-sites/justetc-android-app/pmp-project-management-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
